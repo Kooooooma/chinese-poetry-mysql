@@ -1,5 +1,5 @@
 # chinese-poetry-mysql
-基于 chinese-poetry 数据整理的一份 mysql 格式数据
+基于 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 数据整理的一份 mysql 格式数据
 
 ## 数据表说明
 * poems - 宋词数据表 

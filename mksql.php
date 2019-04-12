@@ -22,6 +22,9 @@ $db = mysqli_connect($host, $username, $password, $poetryDb, $port);
 if (mysqli_connect_error()) {
     die("Connect Error: ".mysqli_connect_errno());
 }
+if (!mysqli_set_charset($db, "utf8")) {
+    die("Error loading character set utf8: ".mysqli_error($db));
+}
 
 mkSQL();
 
@@ -238,7 +241,6 @@ function mkPoetAuthor($dynasty) {
 //============================= 公用函数区
 function doExecute($sql) {
     global $db;
-
     if (!$db->query($sql)) {
         die("Query Error: ".mysqli_error($db));
     }

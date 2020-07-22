@@ -1,5 +1,5 @@
-“[chinese-poetry-mysql] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
-<!--<a href="https://tracking.gitads.io/?repo=chinese-poetry-mysql"> <img src="https://images.gitads.io/chinese-poetry-mysql" alt="GitAds"/> </a>-->
+[chinese-poetry-mysql] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
+<a href="https://tracking.gitads.io/?repo=chinese-poetry-mysql"> <img src="https://images.gitads.io/chinese-poetry-mysql" alt="GitAds"/> </a>
 
 # chinese-poetry-mysql
 基于 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 数据整理的一份 mysql 格式数据

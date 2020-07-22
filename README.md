@@ -1,4 +1,4 @@
-[chinese-poetry-mysql] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
+“[chinese-poetry-mysql] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
 <!--<a href="https://tracking.gitads.io/?repo=chinese-poetry-mysql"> <img src="https://images.gitads.io/chinese-poetry-mysql" alt="GitAds"/> </a>-->
 
 # chinese-poetry-mysql
